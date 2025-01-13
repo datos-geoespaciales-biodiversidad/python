@@ -40,7 +40,7 @@ Los contenidos de las lecciones están disponibles en el sitio web del curso, en
             <td style="padding: 8px; vertical-align: middle; text-align: center;">1</td>
             <td style="padding: 8px;">
                 <ul>
-                    <li>Ciencia de datos y reproducibilidad</li>
+                    <li>Introducción a la ciencia de datos</li>
                     <li>Cuadernos de notas Jupyter</li>
                     <li>El lenguaje de marcado Markdown</li>
                 </ul>
@@ -175,7 +175,7 @@ Los contenidos de las lecciones están disponibles en el sitio web del curso, en
     </thead>
     <tbody>
         <tr style="background-color: #ffffff;">
-            <td style="padding: 8px; vertical-align: top;">Asistencias</td>
+            <td style="padding: 8px; vertical-align: top;">Asistencia</td>
             <td style="padding: 8px; text-align: right;">30</td>
         </tr>
         <tr style="background-color: #ebebeb;">
@@ -225,7 +225,7 @@ Kaggle. (s.f.-b). *Learn Data Visualization*. Recuperado 1 de agosto de 2024, de
 
 P, C. (s.f.). *plotly: An open-source, interactive data visualization library for Python*. Recuperado 1 de agosto de 2024, de https://plotly.com/python/
 
-### Análisis geoespacial
+### Análisis de datos geoespaciales
 
 Rey, S. J., Arribas-Bel, D., & Wolf, L. J. (2020). *Geographic Data Science with Python*. https://geographicdata.science/book/
 
