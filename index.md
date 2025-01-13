@@ -199,6 +199,12 @@ Los contenidos de las lecciones están disponibles en el sitio web del curso, en
 
 ## Bibliografía recomendada
 
+### Ciencia de datos
+
+Çetinkaya-Rundel, M., & Hardin, J. (2021). *Chapter 1: Hello data* en *Introduction to Modern Statistics* (1st ed.). OpenIntro, Inc. https://openintro-ims.netlify.app/data-hello
+
+Wickham, H., Çetinkaya-Rundel, M., & Grolemund, G. (2023). *Introduction* en *R for Data Science: Import, Tidy, Transform, Visualize, and Model Data* (2nd ed.). O’Reilly Media. https://r4ds.hadley.nz/intro
+
 ### Markdown
 
 Markdown Tutorial. (s.f.). Recuperado 19 de marzo de 2022, de https://www.markdowntutorial.com/
@@ -207,7 +213,7 @@ Markdown Tutorial. (s.f.). Recuperado 19 de marzo de 2022, de https://www.markdo
 
 Severance, D. C. R. (2016). *Python for Everybody: Exploring Data in Python 3* (S. Blumenberg & E. Hauser, Eds.). CreateSpace Independent Publishing Platform. https://www.py4e.com/html3/
 
-Downey, Allen B. (2024). *Think Python: How to Think Like a Computer Scientist* (3rd ed.). O’Reilly Media. https://greenteapress.com/wp/think-python-3rd-edition
+Downey, A. B. (2024). *Think Python: How to Think Like a Computer Scientist* (3rd ed.). O’Reilly Media. https://greenteapress.com/wp/think-python-3rd-edition
 
 Kaggle. (s.f.-a). *Learn Pandas*. Recuperado 1 de agosto de 2024, de https://www.kaggle.com/learn/pandas
 
