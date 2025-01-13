@@ -3,3 +3,7 @@
 
 format: jb-book
 root: index
+chapters:
+- external: true
+  title: "Introducción a la ciencia de datos"
+  url: https://colab.research.google.com/drive/1G2DFQq4SyzG7-DZ9l5TIJV-M0_Nb1o4O?usp=sharing
