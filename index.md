@@ -57,7 +57,7 @@ Los contenidos de las lecciones están disponibles en el sitio web del curso, en
               PARTE II - PYTHON
             </td>
         </tr>
-        <tr style="background-color: #ebebeb;">
+        <tr style="background-color: #ffffff;">
             <td style="padding: 8px; vertical-align: middle; text-align: center;">2</td>
             <td style="padding: 8px;">
                 <ul>
@@ -101,7 +101,7 @@ Los contenidos de las lecciones están disponibles en el sitio web del curso, en
               PARTE III - DATOS DE BIODIVERSIDAD
             </td>
         </tr>
-        <tr style="background-color: #ebebeb;">
+        <tr style="background-color: #ffffff;">
             <td style="padding: 8px; vertical-align: middle; text-align: center;">4</td>
             <td style="padding: 8px;">
                 <ul>
@@ -115,7 +115,7 @@ Los contenidos de las lecciones están disponibles en el sitio web del curso, en
               PARTE IV - ANÁLISIS DE DATOS
             </td>
         </tr>
-        <tr style="background-color: #ebebeb;">
+        <tr style="background-color: #ffffff;">
             <td style="padding: 8px; vertical-align: middle; text-align: center;">4</td>
             <td style="padding: 8px;">
                 <ul>
@@ -142,7 +142,7 @@ Los contenidos de las lecciones están disponibles en el sitio web del curso, en
               PARTE VI - DATOS GEOESPACIALES
             </td>
         </tr>
-        <tr style="background-color: #ebebeb;">
+        <tr style="background-color: #ffffff;">
             <td style="padding: 8px; vertical-align: middle; text-align: center;">6</td>
             <td style="padding: 8px;">
                 <ul>
@@ -174,7 +174,7 @@ Los contenidos de las lecciones están disponibles en el sitio web del curso, en
                 </ul>
             </td>
         </tr>
-        <tr style="background-color: #ebebeb;">
+        <tr style="background-color: #ffffff;">
             <td style="padding: 8px; vertical-align: middle; text-align: center;">8</td>
             <td style="padding: 8px;">
                 <ul>
