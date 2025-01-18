@@ -18,6 +18,11 @@ parts:
     - external: true
       title: "Representación de datos"
       url: https://colab.research.google.com/drive/14BLxTBly67HoDEgfPFjxpQWiLFNZCGBM?usp=sharing
+  - caption: PARTE II - PYTHON
+    chapters:
+    - external: true
+      title: "Introducción a Python"
+      url: https://colab.research.google.com/drive/12TZVf3QMJRD5T93-CXWI6Y96cINyMNDl?usp=sharing
   - caption: EJEMPLOS DE APLICACIÓN
     chapters:
     - external: true
