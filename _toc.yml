@@ -16,5 +16,10 @@ parts:
       title: "El lenguaje de marcado Markdown"
       url: https://colab.research.google.com/drive/1EflT3tX6r-UInFs4PevO0QjOksmsY91d?usp=sharing
     - external: true
-      title: "Representación de datos: observaciones, variables y sus tipos"
+      title: "Representación de datos"
       url: https://colab.research.google.com/drive/14BLxTBly67HoDEgfPFjxpQWiLFNZCGBM?usp=sharing
+  - caption: EJEMPLOS
+    chapters:
+    - external: true
+      title: "Visualización de datos"
+      url: https://colab.research.google.com/drive/1VMj1WfamqtJe6V9OAeDZ2BE2SdiEI6up?usp=sharing
