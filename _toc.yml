@@ -18,8 +18,14 @@ parts:
     - external: true
       title: "Representación de datos"
       url: https://colab.research.google.com/drive/14BLxTBly67HoDEgfPFjxpQWiLFNZCGBM?usp=sharing
-  - caption: EJEMPLOS
+  - caption: EJEMPLOS DE APLICACIÓN
     chapters:
     - external: true
       title: "Visualización de datos"
       url: https://colab.research.google.com/drive/1VMj1WfamqtJe6V9OAeDZ2BE2SdiEI6up?usp=sharing
+  - caption: OTROS
+    chapters:
+    - external: true
+      title: "Videos de las lecciones"
+      url: https://www.youtube.com/playlist?list=PLiP4keNeUXymrVQaW71Wf_xCCAFwK5r-R
+    
