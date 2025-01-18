@@ -61,6 +61,7 @@ Los contenidos de las lecciones están disponibles en el sitio web del curso, en
             <td style="padding: 8px; vertical-align: middle; text-align: center;">2</td>
             <td style="padding: 8px;">
                 <ul>
+                    <li>Introducción al lenguaje de programación Python</li>
                     <li>El lenguaje de programación Python
                         <ul>
                             <li>Tipos de datos básicos</li>
