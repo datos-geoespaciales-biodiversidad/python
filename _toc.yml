@@ -23,6 +23,9 @@ parts:
     - external: true
       title: "Introducción a Python"
       url: https://colab.research.google.com/drive/12TZVf3QMJRD5T93-CXWI6Y96cINyMNDl?usp=sharing
+    - external: true
+      title: "El lenguaje Python"
+      url: https://colab.research.google.com/drive/1AWDS9ASUoAzaTjqz54Uc0J_vBG3pDFXU?usp=sharing
   - caption: EJEMPLOS DE APLICACIÓN
     chapters:
     - external: true
