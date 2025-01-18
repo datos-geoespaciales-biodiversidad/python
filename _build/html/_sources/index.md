@@ -36,6 +36,11 @@ Los contenidos de las lecciones están disponibles en el sitio web del curso, en
         </tr>
     </thead>
     <tbody>
+        <tr style="background-color: #add8e6;">
+            <td colspan="3" style="padding: 4px; text-align:center; font-weight:bold;">
+              PARTE I - CIENCIA DE DATOS
+            </td>
+        </tr>
         <tr style="background-color: #ffffff;">
             <td style="padding: 8px; vertical-align: middle; text-align: center;">1</td>
             <td style="padding: 8px;">
@@ -43,7 +48,13 @@ Los contenidos de las lecciones están disponibles en el sitio web del curso, en
                     <li>Introducción a la ciencia de datos</li>
                     <li>Cuadernos de notas Jupyter</li>
                     <li>El lenguaje de marcado Markdown</li>
+                    <li>Representación de datos</li>
                 </ul>
+            </td>
+        </tr>
+        <tr style="background-color: #add8e6;">
+            <td colspan="3" style="padding: 4px; text-align:center; font-weight:bold;">
+              PARTE II - PYTHON
             </td>
         </tr>
         <tr style="background-color: #ebebeb;">
@@ -84,37 +95,50 @@ Los contenidos de las lecciones están disponibles en el sitio web del curso, en
                 </ul>
             </td>
         </tr>
+        <tr style="background-color: #add8e6;">
+            <td colspan="3" style="padding: 4px; text-align:center; font-weight:bold;">
+              PARTE III - DATOS DE BIODIVERSIDAD
+            </td>
+        </tr>
         <tr style="background-color: #ebebeb;">
             <td style="padding: 8px; vertical-align: middle; text-align: center;">4</td>
             <td style="padding: 8px;">
                 <ul>
-                    <li>Introducción a los datos de biodiversidad
-                        <ul>
-                            <li>El estándar Darwin Core</li>
-                            <li>La biblioteca Pygbif</li>
-                        </ul>
-                    </li>
-                </ul>
-                <ul>
-                    <li>Análisis y visualización de datos
-                        <ul>
-                            <li>La biblioteca Pandas</li>
-                        </ul>
-                    </li>
+                    <li>El estándar Darwin Core</li>
+                    <li>La biblioteca Pygbif</li>
                 </ul>
             </td>
         </tr>
+        <tr style="background-color: #add8e6;">
+            <td colspan="3" style="padding: 4px; text-align:center; font-weight:bold;">
+              PARTE IV - ANÁLISIS DE DATOS
+            </td>
+        </tr>
+        <tr style="background-color: #ebebeb;">
+            <td style="padding: 8px; vertical-align: middle; text-align: center;">4</td>
+            <td style="padding: 8px;">
+                <ul>
+                    <li>La biblioteca Pandas</li>
+                </ul>
+            </td>
+        </tr>
+        <tr style="background-color: #add8e6;">
+            <td colspan="3" style="padding: 4px; text-align:center; font-weight:bold;">
+              PARTE V - GRAFICACIÓN ESTADÍSTICA
+            </td>
+        </tr>        
         <tr style="background-color: #ffffff;">
             <td style="padding: 8px; vertical-align: middle; text-align: center;">5</td>
             <td style="padding: 8px;">
                 <ul>
-                    <li>Graficación estadística
-                        <ul>
-                            <li>La biblioteca Matplotlib</li>
-                            <li>La biblioteca Plotly</li>
-                        </ul>
-                    </li>
+                    <li>La biblioteca Matplotlib</li>
+                    <li>La biblioteca Plotly</li>
                 </ul>
+            </td>
+        </tr>
+        <tr style="background-color: #add8e6;">
+            <td colspan="3" style="padding: 4px; text-align:center; font-weight:bold;">
+              PARTE VI - DATOS GEOESPACIALES
             </td>
         </tr>
         <tr style="background-color: #ebebeb;">
