@@ -26,6 +26,11 @@ parts:
     - external: true
       title: "El lenguaje Python"
       url: https://colab.research.google.com/drive/1AWDS9ASUoAzaTjqz54Uc0J_vBG3pDFXU?usp=sharing
+  - caption: EVALUACIONES
+    chapters:
+    - external: true
+      title: "Tarea 1"
+      url: https://colab.research.google.com/drive/1J2FhyQERxZKFMQVrFAlZ_NnPWOuhNUEp?usp=sharing
   - caption: EJEMPLOS DE APLICACIÓN
     chapters:
     - external: true
