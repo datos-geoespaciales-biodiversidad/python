@@ -31,6 +31,9 @@ parts:
     - external: true
       title: "Introducción a los datos sobre biodiversidad"
       url: https://colab.research.google.com/drive/19aCRFwB90eIb6Ta0qw4GSupbnYHEudPn?usp=sharing
+    - external: true
+      title: "El API de GBIF y la biblioteca pygbif"
+      url: https://colab.research.google.com/drive/1B30o8Ek_WiUYpiDjRjDh4ZG8hH16NXLE?usp=sharing
   - caption: EVALUACIONES
     chapters:
     - external: true
