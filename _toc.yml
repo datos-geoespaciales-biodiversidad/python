@@ -32,13 +32,19 @@ parts:
       title: "Introducción a los datos sobre biodiversidad"
       url: https://colab.research.google.com/drive/19aCRFwB90eIb6Ta0qw4GSupbnYHEudPn?usp=sharing
     - external: true
-      title: "El API de GBIF y la biblioteca pygbif"
+      title: "El API de GBIF"
       url: https://colab.research.google.com/drive/1B30o8Ek_WiUYpiDjRjDh4ZG8hH16NXLE?usp=sharing
+    - external: true
+      title: "La biblioteca pygbif"
+      url: https://colab.research.google.com/drive/1MNCfm8ehf83Cy-sbADUibnUiSH6AeqMf?usp=sharing
   - caption: EVALUACIONES
     chapters:
     - external: true
       title: "Tarea 1"
       url: https://colab.research.google.com/drive/1J2FhyQERxZKFMQVrFAlZ_NnPWOuhNUEp?usp=sharing
+    - external: true
+      title: "Tarea 2"
+      url: https://colab.research.google.com/drive/1zNU-ZXJQEnmJOmLRQl7SuMBNTD9KNVxD?usp=sharing
   - caption: EJEMPLOS DE APLICACIÓN
     chapters:
     - external: true
