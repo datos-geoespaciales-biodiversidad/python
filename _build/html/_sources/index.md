@@ -86,8 +86,6 @@ Los contenidos de las lecciones están disponibles en el sitio web del curso, en
                             <li>
                                 <ul>
                                     <li>Listas</li>
-                                    <li>Tuplas</li>
-                                    <li>Conjuntos</li>
                                     <li>Diccionarios</li>
                                 </ul>
                             </li>
@@ -105,8 +103,9 @@ Los contenidos de las lecciones están disponibles en el sitio web del curso, en
             <td style="padding: 8px; vertical-align: middle; text-align: center;">4</td>
             <td style="padding: 8px;">
                 <ul>
-                    <li>El estándar Darwin Core</li>
-                    <li>La biblioteca Pygbif</li>
+                    <li>Introducción a los datos sobre biodiversidad</li>
+                    <li>El API de GBIF</li>
+                    <li>pygbif: biblioteca para acceso a datos en GBIF</li>
                 </ul>
             </td>
         </tr>
@@ -119,7 +118,7 @@ Los contenidos de las lecciones están disponibles en el sitio web del curso, en
             <td style="padding: 8px; vertical-align: middle; text-align: center;">4</td>
             <td style="padding: 8px;">
                 <ul>
-                    <li>La biblioteca Pandas</li>
+                    <li>pandas: biblioteca para manipulación y análisis de datos</li>
                 </ul>
             </td>
         </tr>
@@ -239,6 +238,18 @@ Markdown Tutorial. (s.f.). Recuperado 19 de marzo de 2022, de https://www.markdo
 Severance, D. C. R. (2016). *Python for Everybody: Exploring Data in Python 3* (S. Blumenberg & E. Hauser, Eds.). CreateSpace Independent Publishing Platform. https://www.py4e.com/html3/
 
 Downey, A. B. (2024). *Think Python: How to Think Like a Computer Scientist* (3rd ed.). O’Reilly Media. https://greenteapress.com/wp/think-python-3rd-edition
+
+### Datos de biodiversidad
+
+Chamberlain, S. (s. f.). *pygbif: Python client for the Global Biodiversity Information Facility (GBIF)* [Documentación]. rOpenSci. https://pygbif.readthedocs.io
+
+Darwin Core Maintenance Group. (2021). Darwin Core Quick Reference Guide. *Biodiversity Information Standards (TDWG)*. https://dwc.tdwg.org/terms/
+
+Global Biodiversity Information Facility (GBIF). (s.f.). *Developer portal*. GBIF. https://www.gbif.org/developer/summary
+
+Wieczorek, J., Bloom, D., Guralnick, R., Blum, S., Döring, M., Giovanni, R., ... & Vieglais, D. (2012). Darwin Core: An evolving community-developed biodiversity data standard. *PLoS ONE, 7*(1), e29715. https://doi.org/10.1371/journal.pone.0029715
+
+### Análisis de datos
 
 Kaggle. (s.f.-a). *Learn Pandas*. Recuperado 1 de agosto de 2024, de https://www.kaggle.com/learn/pandas
 
