@@ -35,8 +35,13 @@ parts:
       title: "El API de GBIF"
       url: https://colab.research.google.com/drive/1B30o8Ek_WiUYpiDjRjDh4ZG8hH16NXLE?usp=sharing
     - external: true
-      title: "La biblioteca pygbif"
+      title: "pygbif: biblioteca para acceso a datos en GBIF"
       url: https://colab.research.google.com/drive/1MNCfm8ehf83Cy-sbADUibnUiSH6AeqMf?usp=sharing
+  - caption: PARTE IV - ANÁLISIS DE DATOS
+    chapters:
+    - external: true
+      title: "pandas: biblioteca para manipulación y análisis de datos"
+      url: https://colab.research.google.com/drive/12ds5QFObCB6ZsHo_SHD0YiY0OmjY5vaw?usp=sharing
   - caption: EVALUACIONES
     chapters:
     - external: true
