@@ -47,6 +47,9 @@ parts:
     - external: true
       title: "matplotlib: biblioteca para visualización de datos"
       url: https://colab.research.google.com/drive/1m7C4-wttGFgMgTpfjeG2TeD0GOg3aBmA?usp=sharing
+    - external: true
+      title: "plotly: biblioteca para gráficos interactivos"
+      url: https://colab.research.google.com/drive/1x5zimgTefw5acAPVsyNIO72UaM_hdtJi?usp=sharing
   - caption: EVALUACIONES
     chapters:
     - external: true
