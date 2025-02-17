@@ -50,6 +50,11 @@ parts:
     - external: true
       title: "plotly: biblioteca para gráficos interactivos"
       url: https://colab.research.google.com/drive/1x5zimgTefw5acAPVsyNIO72UaM_hdtJi?usp=sharing
+  - caption: PARTE VI - DATOS GEOESPACIALES
+    chapters:
+    - external: true
+      title: "Introducción a los datos geoespaciales"
+      url: https://colab.research.google.com/drive/1te4h0X1tHL-tvEbHVHqQIvXBCiPHCFog?usp=sharing
   - caption: EVALUACIONES
     chapters:
     - external: true
