@@ -42,6 +42,11 @@ parts:
     - external: true
       title: "pandas: biblioteca para manipulación y análisis de datos"
       url: https://colab.research.google.com/drive/12ds5QFObCB6ZsHo_SHD0YiY0OmjY5vaw?usp=sharing
+  - caption: PARTE V - GRAFICACIÓN ESTADÍSTICA
+    chapters:
+    - external: true
+      title: "matplotlib: biblioteca para visualización de datos"
+      url: https://colab.research.google.com/drive/1m7C4-wttGFgMgTpfjeG2TeD0GOg3aBmA?usp=sharing
   - caption: EVALUACIONES
     chapters:
     - external: true
