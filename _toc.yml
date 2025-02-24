@@ -55,6 +55,9 @@ parts:
     - external: true
       title: "Introducción a los datos geoespaciales"
       url: https://colab.research.google.com/drive/1te4h0X1tHL-tvEbHVHqQIvXBCiPHCFog?usp=sharing
+    - external: true
+      title: "geopandas: biblioteca para manipulación y análisis de datos vectoriales"
+      url: https://colab.research.google.com/drive/1uNLZ5umnRVGyT0OLi7kuk-W2M3z8o5vJ?usp=sharing
   - caption: EVALUACIONES
     chapters:
     - external: true
