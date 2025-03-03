@@ -75,6 +75,9 @@ parts:
     - external: true
       title: "Tarea 3"
       url: https://colab.research.google.com/drive/15d1glymGlQA8riTJ3EQl9xicjFaTIk3V?usp=sharing
+    - external: true
+      title: "Proyecto"
+      url: https://colab.research.google.com/drive/11fb7B5-XDmk1lW2BVoncrPvZ42xY29J7?usp=sharing
   - caption: EJEMPLOS DE APLICACIÓN
     chapters:
     - external: true
