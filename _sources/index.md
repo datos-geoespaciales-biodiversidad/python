@@ -271,6 +271,8 @@ Geopandas contributors. (s.f.). *geopandas: Geographic pandas extensions*. Recup
 
 Gillies, S. (s.f.). *rasterio: Fast and direct raster I/O for use with Numpy and SciPy*. Recuperado 1 de enero de 2022, de https://github.com/mapbox/rasterio
 
+Wu, Q. (s.f.). *leafmap*. Recuperado 3 de marzo de 2024, de https://leafmap.org/
+
 ## Contactos
 
 Si tiene alguna pregunta o comentario sobre este curso, por favor contacte a:
