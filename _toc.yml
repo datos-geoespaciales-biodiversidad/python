@@ -58,6 +58,9 @@ parts:
     - external: true
       title: "geopandas: biblioteca para manipulación y análisis de datos vectoriales"
       url: https://colab.research.google.com/drive/1uNLZ5umnRVGyT0OLi7kuk-W2M3z8o5vJ?usp=sharing
+    - external: true
+      title: "rasterio: biblioteca para lectura, escritura y análisis de datos raster"
+      url: https://colab.research.google.com/drive/16i-QvszP8puMePBCHODapR9dD77icPO0?usp=sharing
   - caption: EVALUACIONES
     chapters:
     - external: true
