@@ -61,6 +61,9 @@ parts:
     - external: true
       title: "rasterio: biblioteca para lectura, escritura y análisis de datos raster"
       url: https://colab.research.google.com/drive/16i-QvszP8puMePBCHODapR9dD77icPO0?usp=sharing
+    - external: true
+      title: "leafmap: biblioteca para análisis geoespacial y mapas interactivos"
+      url: https://colab.research.google.com/drive/1tg2EYcwdP667voEU_xkQGFfk3gFkCGUe?usp=sharing
   - caption: EVALUACIONES
     chapters:
     - external: true
